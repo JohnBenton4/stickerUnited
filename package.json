@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omardun/stickerUnited.git"
+    "url": "git+https://github.com/JohnBenton4/stickerUnited.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/omardun/stickerUnited/issues"
+    "url": "https://github.com/JohnBenton4/stickerUnited/issues"
   },
-  "homepage": "https://github.com/omardun/stickerUnited#readme",
+  "homepage": "https://github.com/JohnBenton4/stickerUnited#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "express": "^4.18.1",
